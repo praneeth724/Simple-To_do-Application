@@ -12,7 +12,11 @@ Follow these steps to set up and run the To-Do List application using Laravel an
 
 ### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/your-repo/todo-list-laravel.git
+git clone https://github.com/praneeth724/Simple-To_do-Application.git
+
+```
+
+```sh
 cd todo-list-laravel
 ```
 
